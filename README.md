@@ -13,4 +13,3 @@ Dialogix is a modern AI chat application designed with a clean and responsive in
 - TypeScript
 - Vite
 - Tailwind CSS
->>>>>>> 31b4b88fa3e5efc0c1676c37353399f4c003549e
