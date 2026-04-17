@@ -1,0 +1,7 @@
+import type { Config } from "tailwindcss";
+import scrollbar from "tailwind-scrollbar";
+
+export default {
+  content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
+  plugins: [scrollbar],
+} satisfies Config;
